@@ -20,4 +20,4 @@ RUN npm install
 RUN mkdir /app/data
 
 
-CMD ["node", "index.js"]
+CMD ["node", "app.js"]

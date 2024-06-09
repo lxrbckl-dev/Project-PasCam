@@ -1,6 +1,5 @@
 // import <
 const encrypt = require('./encrypt.js');
-
 const {createDecipheriv} = require('crypto');
 
 // >

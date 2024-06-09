@@ -9,12 +9,12 @@ const {
 } = require('discord.js');
 
 const database = require('./database.js');
-const show = require('./command/show.js');
-const share = require('./command/share.js');
-const update = require('./command/update.js');
-const remove = require('./command/remove.js');
-const decrypt = require('./command/decrypt.js');
-const encrypt = require('./command/encrypt.js');
+const show = require('./commands/show.js');
+const share = require('./commands/share.js');
+const update = require('./commands/update.js');
+const remove = require('./commands/remove.js');
+const decrypt = require('./commands/decrypt.js');
+const encrypt = require('./commands/encrypt.js');
 
 // >
 
