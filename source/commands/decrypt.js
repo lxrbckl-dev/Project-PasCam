@@ -21,7 +21,7 @@ class decrypt extends encrypt {
 
          type : 1,
          name : 'decrypt',
-         description : 'description',
+         description : 'fetch existing content',
          options : [
 
             {

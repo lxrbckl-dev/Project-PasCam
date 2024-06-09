@@ -22,7 +22,7 @@ class share {
 
          type : 1,
          name : 'share',
-         description : 'description',
+         description : 'share content with other server users',
          options : [
 
             {

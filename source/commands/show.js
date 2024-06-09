@@ -9,7 +9,7 @@ class show {
 
          type : 1,
          name : 'show',
-         description : 'description'
+         description : 'show titles of all content, alphabetically'
 
       }
 

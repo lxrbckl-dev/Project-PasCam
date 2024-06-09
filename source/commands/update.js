@@ -24,7 +24,7 @@ class update extends share {
 
          type : 1,
          name : 'update',
-         description : 'description',
+         description : 'update existing content',
          options : [
 
             {

@@ -22,7 +22,7 @@ class remove extends share {
 
          type : 1,
          name : 'remove',
-         description : 'description',
+         description : 'remove content permanently',
          options : [
 
             {

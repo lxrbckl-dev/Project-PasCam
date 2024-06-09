@@ -29,7 +29,7 @@ class encrypt {
 
          type : 1,
          name : 'encrypt',
-         description : 'description',
+         description : 'create new content to store',
          options : [
 
             {
