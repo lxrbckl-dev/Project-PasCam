@@ -3,9 +3,6 @@
 
 ---
 
-import random, string, glob, datetime, time, pyperclip
-
-
 [**`Python`**](https://github.com/lxRbckl/lxRbckl/blob/main/Python/README.md)
 [`random`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/random.md)
 [`string`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/string.md)
