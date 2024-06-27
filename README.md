@@ -3,9 +3,9 @@
 
 ---
 
-[**`Python`**](https://github.com/lxRbckl/lxRbckl/blob/main/JavaScript/README.md)
-[`string`](https://github.com/lxRbckl/lxRbckl/blob/main/Javascript/string.md)
-[`random`](https://github.com/lxRbckl/lxRbckl/blob/main/Javascript/random.md)
-[`datetime`](https://github.com/lxRbckl/lxRbckl/blob/main/Javascript/datetime.md)
+[**`Python`**](https://github.com/lxRbckl/lxRbckl/blob/main/Python/README.md)
+[`string`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/string.md)
+[`random`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/random.md)
+[`datetime`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/datetime.md)
 
 #
