@@ -16,5 +16,8 @@
 [`github-workflows`](https://github.com/lxRbckl/lxRbckl/blob/main/GitHub/github-workflows.md)
 [**`Git`**](https://github.com/lxRbckl/lxRbckl/blob/main/Git/README.md)
 [`git-hooks`](https://github.com/lxRbckl/lxRbckl/blob/main/Git/git-hooks.md)
+[**`Linux`**](https://github.com/lxRbckl/lxRbckl/blob/main/Linux/README.md)
+[**`Shell`**](https://github.com/lxRbckl/lxRbckl/blob/main/BASH/README.md)
+[**`Raspberry Pi`**](https://github.com/lxRbckl/lxRbckl/blob/main/Raspberry-Pi/README.md)
 
 # 
