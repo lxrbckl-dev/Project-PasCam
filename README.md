@@ -3,7 +3,7 @@
 
 ---
 
-[`Python`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/README.md)
+[**`Python`**](https://github.com/lxRbckl/lxRbckl/blob/main/Python/README.md)
 [`random`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/random.md)
 [`string`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/string.md)
 [`discord-py`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/discord-py.md)
