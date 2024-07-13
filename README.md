@@ -4,9 +4,9 @@
 ---
 
 [**`Python`**](https://github.com/lxRbckl/lxRbckl/blob/main/Python/README.md)
-[`random`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/random.md)
-[`string`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/string.md)
-[`discord py`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/discord-py.md)
-[`os`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/os.md)
+[`random`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/random/README.md)
+[`string`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/string/README.md)
+[`discord py`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/discord-py/README.md)
+[`os`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/os/README.md)
 
 # 
