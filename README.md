@@ -1,4 +1,4 @@
-# Project PasCam 4
+# [Project PasCam 4](https://github.com/lxRbckl/Project-PasCam/wiki/V4)
 > Camouflage your passwords with a Discord bot. V4. Fall 2020.
 
 ---
