@@ -152,8 +152,6 @@ sudo cp -r $projectPath/backup/* $projectPath/data/
 
 ---
 
----
-
 <p align="center">
   
   <img width="155" src="https://i.postimg.cc/R0sSxJpD/IMG-5018.jpg">
