@@ -1,12 +1,17 @@
-# [Project PasCam 5](https://github.com/lxRbckl/Project-PasCam/wiki/V5)
+# Project PasCam 5
 > Camouflage your passwords with a Discord bot. V5. Spring 2021.
 
 ---
 
-[**`Python`**](https://github.com/lxRbckl/lxRbckl/blob/main/Python/README.md)
-[`random`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/random/README.md)
-[`string`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/string/README.md)
-[`discord py`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/discord-py/README.md)
-[`os`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/os/README.md)
+<p align="center">
+  
+  <img width="155" src="https://i.postimg.cc/R0sSxJpD/IMG-5018.jpg">
+  <img width="155" src="https://i.postimg.cc/wxtvHFpc/IMG-5019.jpg">
+  <img width="155" src="https://i.postimg.cc/HxFTVDg0/IMG-5020.jpg">
 
-# 
+</p>
+<div align="center">
+  
+  *This project is a heartfelt tribute to our beloved bunny, Tribble. Gone but not forgotten.*
+
+</div>
