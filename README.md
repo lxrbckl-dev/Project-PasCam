@@ -1,14 +1,17 @@
-# [Project PasCam 3](https://github.com/lxRbckl/Project-PasCam/wiki/V3)
+# Project PasCam 3
 > Camouflage your passwords. V3. Spring 2020.
 
 ---
 
-[**`Python`**](https://github.com/lxRbckl/lxRbckl/blob/main/Python/README.md)
-[`random`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/random/README.md)
-[`string`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/string/README.md)
-[`glob`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/glob/README.md)
-[`datetime`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/datetime/README.md)
-[`time`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/time/README.md)
-[`pyperclip`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/pyperclip/README.md)
+<p align="center">
+  
+  <img width="155" src="https://i.postimg.cc/R0sSxJpD/IMG-5018.jpg">
+  <img width="155" src="https://i.postimg.cc/wxtvHFpc/IMG-5019.jpg">
+  <img width="155" src="https://i.postimg.cc/HxFTVDg0/IMG-5020.jpg">
 
-#
+</p>
+<div align="center">
+  
+  *This project is a heartfelt tribute to our beloved bunny, Tribble. Gone but not forgotten.*
+
+</div>
