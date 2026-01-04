@@ -1,5 +1,7 @@
 # Project PasCam 1
-> Camouflage your passwords. V1. Spring 2019.
+> Camouflage your passwords. Spring 2019.
+>
+> **`Python`** `string` `random` `datetime`
 
 ---
 
