@@ -1,5 +1,7 @@
 # Project PasCam 8
-> Encrypt and share passwords using a Discord bot. V8. Spring 2024.
+> Encrypt and share passwords using a Discord bot. Spring 2024.
+>
+> **`JavaScript`** **`Docker`** `discordjs` `crypto` `git-hooks` `github-actions`
 
 ---
 
