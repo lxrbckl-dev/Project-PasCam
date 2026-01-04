@@ -1,5 +1,7 @@
 # Project PasCam 4
-> Camouflage your passwords with a Discord bot. V4. Fall 2020.
+> Camouflage your passwords with a Discord bot. Fall 2020.
+>
+> **`Python`** `discordpy` `random` `string` `os`
 
 ---
 
