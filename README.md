@@ -74,8 +74,7 @@ services:
     volumes:
       - /path/on/host:/app/data
 ```
-> **`image`** [`project-pascam:latest`](https://hub.docker.com/repository/docker/lxrbckl/project-pascam/general) <br>
-> **`variable`** `purpose of variable`
+> **`project-pascam:latest`** [`project-pascam:latest`](https://hub.docker.com/repository/docker/lxrbckl/project-pascam/general) <br>
 
 # 
 
@@ -111,7 +110,6 @@ if [ -n "$externalBackupMount" ]; then
 
 fi
 ```
-> `variable` **`required?`** `variable purpose`
 
 # 
 
@@ -135,7 +133,6 @@ if [ -n "$externalBackupMount" ]; then
 
 fi
 ```
-> `variable` **`required?`** `variable purpose`
 
 # 
 
@@ -150,7 +147,6 @@ projectPath=;
 sudo rm -r $projectPath/data/*
 sudo cp -r $projectPath/backup/* $projectPath/data/
 ```
-> `variable` **`required?`** `variable purpose`
 
 ---
 
