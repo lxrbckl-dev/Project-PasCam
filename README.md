@@ -151,9 +151,10 @@ sudo cp -r $projectPath/backup/* $projectPath/data/
 ---
 
 <p align="center">
-  
-  <img width="https://immich.lxrbckl.com/api/assets/f4447430-75af-4bcd-a3b7-f88896b35e1e/thumbnail?slug=dedications&size=preview&c=3CgKDACCOHQIhXJ5d4aSMhAMIg%3D%3D&edited=true">
-
+  <img
+    src="https://immich.lxrbckl.com/api/assets/f4447430-75af-4bcd-a3b7-f88896b35e1e/thumbnail?slug=dedications&size=preview&c=3CgKDACCOHQIhXJ5d4aSMhAMIg%3D%3D&edited=true"
+    width="20%"
+  />
 </p>
 <div align="center">
   
